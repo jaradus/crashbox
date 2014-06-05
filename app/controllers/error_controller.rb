@@ -1,4 +1,4 @@
-class ErrorController < ActionController::Base
+class ErrorController < ApplicationController
 
   def return
     if Error.check(params[:error_number]) == 'nil'

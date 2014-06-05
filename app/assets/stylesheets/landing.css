@@ -1,4 +1,20 @@
+body {
+  background-color: #1b1b24;
+  color: #7a7a8a;
+  font-size: 14px;
+}
+
 .welcome {
+  font-family: 'Helvetica Neue';
+  padding-top: 5em;
+  padding-bottom: 5em;
   text-align: center;
-  background-color: blue;
+  text-transform: uppercase;
+  color: white;
+  font-size: 1.5em;
+}
+
+.explination {
+  font-size: 1.4em;
+  text-align: center;
 }
